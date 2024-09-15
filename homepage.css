@@ -154,7 +154,7 @@ body {
 
 button {
     width: 15% !important;
-    height: 20% !important;
+    height: 8% !important;
     font-size: larger !important;
     background: hsla(0, 0%, 13%, 0.5) !important;
     align-items: center;
@@ -162,4 +162,8 @@ button {
 
 button a{
     color: whitesmoke;
+}
+
+h1 {
+    margin-top: 5% !important;
 }
