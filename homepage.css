@@ -152,13 +152,14 @@ body {
     text-align: center;
 }
 
-.primary {
-    width: 15%;
-    height: 20%;
-    font-size: larger;
-    background: hsla(0, 0%, 13%, 0.5);
+button {
+    width: 15% !important;
+    height: 20% !important;
+    font-size: larger !important;
+    background: hsla(0, 0%, 13%, 0.5) !important;
+    align-items: center;
 }
 
-.primary a{
+button a{
     color: whitesmoke;
 }
