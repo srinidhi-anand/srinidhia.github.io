@@ -149,19 +149,20 @@ body {
 }
 
 .text-center {
-    text-align: center;
+    text-align: center !important;
 }
 
 button {
     width: 15% !important;
     height: 8% !important;
-    font-size: larger !important;
+    font-size: large !important;
     background: hsla(0, 0%, 13%, 0.5) !important;
     align-items: center;
 }
 
 button a{
     color: whitesmoke;
+    font-family: times !important;
 }
 
 h1 {
