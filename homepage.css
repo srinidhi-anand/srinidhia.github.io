@@ -171,3 +171,7 @@ h1 {
     margin-top: 5% !important;
     text-align: center !important;
 }
+
+main {
+    padding: 10px !important;
+}
