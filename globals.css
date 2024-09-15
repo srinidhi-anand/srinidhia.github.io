@@ -169,7 +169,7 @@ a {
 
 body {
     /* background-color: hsla(260, 11%, 85%, 1); url('shiny-grey.jpg'); */ 
-    background-image: linear-gradient(black, white); 
+    background-image: linear-gradient(gray, white); 
     background-size: cover;
     background-repeat: no-repeat;
     padding: 3% !important; 
@@ -185,4 +185,19 @@ body {
 
 .bg-primary {
     background-color: transparent !important;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.primary {
+    width: 15%;
+    height: 20%;
+    font-size: larger;
+    background: hsla(0, 0%, 13%, 0.5);
+}
+
+.primary a{
+    color: whitesmoke;
 }
