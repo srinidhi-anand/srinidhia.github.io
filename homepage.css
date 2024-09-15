@@ -149,17 +149,17 @@ body {
 }
 
 span {
-    text-align: center !important;
+    display: flex;
+    justify-content: center;
 }
 
 button {
-    display: flex !important;
-    width: 15% !important;
+    display: block !important;
+    width: 20% !important;
     height: 8% !important;
     font-size: large !important;
     background: hsla(0, 0%, 13%, 0.5) !important;
-    align-items: center;
-    text-align: center !important;
+    margin: auto;
 }
 
 button a{
