@@ -157,8 +157,8 @@ span {
 
 button {
     display: block !important;
-    width: 20% !important;
-    height: 8% !important;
+    width: fit-content;
+    height: fit-content;
     font-size: large !important;
     background: hsla(0, 0%, 13%, 0.5) !important;
     margin: auto;
