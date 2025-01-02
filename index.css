@@ -87,6 +87,8 @@ ul li {
     font-weight: bold;
     line-height: 40px;
     text-transform: uppercase;
+    min-width: 10% !important;
+    min-height: 45% !important;
 }
 
 .project-module-button:hover {
