@@ -162,6 +162,8 @@ button {
     font-size: large !important;
     background: hsla(0, 0%, 13%, 0.5) !important;
     margin: auto;
+    min-width: fit-content !important;
+    min-height: fit-content !important;
 }
 
 button a{
